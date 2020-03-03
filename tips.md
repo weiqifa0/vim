@@ -31,10 +31,17 @@
 
 ## ctags基本命令
 1．$ctags –R * ($为Linux系统Shell提示符,这个命令上面已经有所介绍)
+
 2. $ vi –t tag (请把tag替换为您欲查找的变量或函数名)
+
 3．:ts(ts助记字：tagslist, “:”开头的命令为VI中命令行模式命令)
+
 4．:tp(tp助记字：tagspreview)---此命令不常用，可以不用记
+
 5．:tn(tn助记字：tagsnext) ---此命令不常用，可以不用记
+
 6．Ctrl+ ]跳到光标所在函数或者结构体的定义处
+
 7．Ctrl+ T返回查找或跳转
+
 
