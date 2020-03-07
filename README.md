@@ -81,5 +81,6 @@
 * Ctrl+ ]跳到光标所在函数或者结构体的定义处
 * Ctrl+ T返回查找或跳转
 
-
+# VIM快捷键汇总
+http://mp.weixin.qq.com/s?__biz=MzA5NTM3MjIxMw==&mid=100003543&idx=1&sn=5b888479a83888f72776cba8999a845e&chksm=1041180d2736911b40f52e8c2eb949437a3b5b05e02d9aa41a449f09bbec7d63fa1a082050d9#rd
 
