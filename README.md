@@ -35,5 +35,8 @@
 [`update_log.md`](update_log.md)
 
 ## 总结使用的心得。
-ctags -R * 用来生成tags
-set paste 设置后，右键粘贴就不会自动注释。
+* ctags -R * 用来生成tags
+* set paste 设置后，右键粘贴就不会自动注释。
+* shift + “*” 向下查找并高亮显示
+* shift + “#” 向上查找并高亮显示
+* “g” + “d” 高亮显示光标所属单词，“n” 查找！
