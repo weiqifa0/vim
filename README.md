@@ -33,3 +33,7 @@
 ### 查看更新日志：
 
 [`update_log.md`](update_log.md)
+
+## 总结使用的心得。
+ctags -R * 用来生成tags
+set paste 设置后，右键粘贴就不会自动注释。
